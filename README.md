@@ -1,2 +1,1 @@
-xtractor.sh:
-Estrattore universale di archivi compressi
+xtractor.sh
